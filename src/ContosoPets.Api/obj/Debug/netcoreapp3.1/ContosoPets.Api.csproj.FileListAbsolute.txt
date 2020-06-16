@@ -1,0 +1,40 @@
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.exe
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.deps.json
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.runtimeconfig.json
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.runtimeconfig.dev.json
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.pdb
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.csprojAssemblyReference.cache
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.AssemblyInfoInputs.cache
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.AssemblyInfo.cs
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.csproj.CoreCompileInputs.cache
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\staticwebassets\ContosoPets.Api.StaticWebAssets.Manifest.cache
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\staticwebassets\ContosoPets.Api.StaticWebAssets.xml
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.pdb
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.genruntimeconfig.cache
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.exe
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.deps.json
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.runtimeconfig.json
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.runtimeconfig.dev.json
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.dll
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\ContosoPets.Api.pdb
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.csprojAssemblyReference.cache
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.AssemblyInfoInputs.cache
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.AssemblyInfo.cs
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.csproj.CoreCompileInputs.cache
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.RazorTargetAssemblyInfo.cache
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\staticwebassets\ContosoPets.Api.StaticWebAssets.Manifest.cache
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\staticwebassets\ContosoPets.Api.StaticWebAssets.xml
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.dll
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.pdb
+C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.genruntimeconfig.cache
