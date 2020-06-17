@@ -38,3 +38,22 @@ C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPe
 C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.dll
 C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.pdb
 C:\Documents and Settings\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.genruntimeconfig.cache
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Crisitano\Documents\Estudos\aspnet-learn\src\ContosoPets.Api\obj\Debug\netcoreapp3.1\ContosoPets.Api.csproj.CopyComplete

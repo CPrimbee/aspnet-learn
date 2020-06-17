@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documents and Settings\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {}
+    "C:\\Users\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {}
   },
   "projects": {
-    "C:\\Documents and Settings\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {
+    "C:\\Users\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documents and Settings\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
         "projectName": "ContosoPets.Api",
-        "projectPath": "C:\\Documents and Settings\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
+        "projectPath": "C:\\Users\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
         "packagesPath": "C:\\Users\\Crisitano\\.nuget\\packages\\",
-        "outputPath": "C:\\Documents and Settings\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\obj\\",
+        "outputPath": "C:\\Users\\Crisitano\\Documents\\Estudos\\aspnet-learn\\src\\ContosoPets.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Crisitano\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
